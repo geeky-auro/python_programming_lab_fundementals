@@ -1,5 +1,6 @@
 # python_programming_lab_fundementals
-Python basic questions solved
+
+## About Python
 
 Python is one of those rare languages which can claim to be both simple and powerful.
 It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing, 
@@ -27,3 +28,5 @@ methods).
 8. WAP to convert Celsius to Fahrenheit
 9. Find the ASCII value of charades
 10. WAP for simple calculator 
+
+### Thanks for Viewing
