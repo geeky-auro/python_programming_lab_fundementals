@@ -2,6 +2,8 @@
 
 <img align="left" src="https://img.icons8.com/color-glass/200/000000/python.png"/>
 
+<img align="center" src="https://img.icons8.com/color/200/000000/pycharm.png"/>
+
 ## About Python 
 
 Python is one of those rare languages which can claim to be both simple and powerful.
