@@ -97,3 +97,31 @@ while True:
     else:
         large1(mylist)
         break
+        
+
+
+# check pallindrome or not
+value=input("Enter a String:\n")
+b=value
+value=value[::-1]
+print(value)
+print(b)
+if value==b:
+    print("It is a pallindrome!")
+else :
+    print("It is not a pallindroidme")
+
+
+#"9/5C+32"
+# "C->F"
+celcius=float(input("Enter temperature in Celcius:\n"))
+farenheit=(9/5)*celcius+32
+print("Temperature in Celcius is ",celcius,"C")
+print("Temperature in Farenheit is ",farenheit,"F")
+
+#Find ASCII values of Characters(To get the ASCII code of a character use ord())
+value=input("Enter a character")
+value=(value.split(" "))[0]
+char=value[0]
+print(ord(char))
+
