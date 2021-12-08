@@ -10,7 +10,7 @@ together with its interpreted nature,make it an ideal language for scripting and
 
 1. Write instructions to perform each of the steps below
 (a) Create a string containing at least five words and store it in a variable.
-(b) Print out the string.g
+(b) Print out the string.
 (c) Convert the string to a list of words using the string split method.
 (d) Sort the list into reverse alphabetical order using some of the list
 methods (you might need to use dir(list) or help(list) to find appropriate
