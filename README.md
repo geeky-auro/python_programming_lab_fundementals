@@ -1,10 +1,14 @@
 # python_programming_lab_fundementals
 
-## About Python
+<img align="left" src="https://img.icons8.com/color-glass/200/000000/python.png"/>
+
+## About Python 
 
 Python is one of those rare languages which can claim to be both simple and powerful.
 It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing, 
 together with its interpreted nature,make it an ideal language for scripting and rapid application development in many areas on most platforms.
+
+<br/>
 
 ## Solved Questions-List of Programs
 
