@@ -197,3 +197,76 @@ while True:
             total=total/div
     else :
         break
+        
+
+
+# check pallindrome or not
+value=input("Enter a String:\n")
+b=value
+value=value[::-1]
+print(value)
+print(b)
+if value==b:
+    print("It is a pallindrome!")
+else :
+    print("It is not a pallindroidme")
+
+
+#"9/5C+32"
+# "C->F"
+celcius=float(input("Enter temperature in Celcius:\n"))
+farenheit=(9/5)*celcius+32
+print("Temperature in Celcius is ",celcius,"C")
+print("Temperature in Farenheit is ",farenheit,"F")
+
+#Find ASCII values of Characters(To get the ASCII code of a character use ord())
+value=input("Enter a character")
+value=(value.split(" "))[0]
+char=value[0]
+print(ord(char))
+
+#calculator
+def addno(a, b):
+    s = a + b
+    print(s)
+    return s
+
+
+def subno(a, b):
+    s = a - b
+    print(s)
+    return s
+
+
+def multiply(a, b):
+    s = a * b
+    print(s)
+    return s
+
+
+def divideno(a, b):
+    s = a / b
+    print(s)
+    return s
+
+
+while True:
+    total = 0.0
+    a = float(input(""))
+    symbol = input("Enter the symbol")
+    b = float(input(""))
+    if symbol=="null":
+        break
+    if symbol == "+":
+        sum=addno(a, b)
+        total=total+sum
+    elif symbol == "-":
+        diff=subno(a, b)
+        total=total-diff
+    elif symbol == "*":
+        mul=multiply(a, b)
+        total=total*mul
+    elif symbol == "/":
+        div=divideno(a, b)
+        total=total/div
+
