@@ -254,19 +254,22 @@ while True:
     total = 0.0
     a = float(input(""))
     symbol = input("Enter the symbol")
-    b = float(input(""))
-    if symbol=="null":
+    if symbol != "null":
+        b = float(input(""))
+        if symbol=="null":
+            break
+        if symbol == "+":
+            sum=addno(a, b)
+            total=total+sum
+        elif symbol == "-":
+            diff=subno(a, b)
+            total=total-diff
+        elif symbol == "*":
+            mul=multiply(a, b)
+            total=total*mul
+        elif symbol == "/":
+            div=divideno(a, b)
+            total=total/div
+    else:
         break
-    if symbol == "+":
-        sum=addno(a, b)
-        total=total+sum
-    elif symbol == "-":
-        diff=subno(a, b)
-        total=total-diff
-    elif symbol == "*":
-        mul=multiply(a, b)
-        total=total*mul
-    elif symbol == "/":
-        div=divideno(a, b)
-        total=total/div
 
