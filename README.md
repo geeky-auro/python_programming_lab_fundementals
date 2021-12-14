@@ -40,12 +40,15 @@ methods).
 
 ## Calculator Code :)
 
-<a href="https://github.com/geeky-auro">
-<img src="http://drive.google.com/uc?id=14iARZHzqXQcAH7qwdGosPmhS3Yg_hEMo"/>
-<img src="http://drive.google.com/uc?id=1DcQdCqSzCRh0BNcWYTEEsKVdqivtUTbc"/>
-<img src="http://drive.google.com/uc?id=1Gr2dtYuIIzpWEJU-pspenb_pO0txHcV5"/>
-</a>
+<a href="https://github.com/geeky-auro"><img alt="python-code-1" src="http://drive.google.com/uc?id=14iARZHzqXQcAH7qwdGosPmhS3Yg_hEMo" /></a>
+<br/>
+<a href="https://github.com/geeky-auro"><img alt="python-code-2" src="http://drive.google.com/uc?id=1DcQdCqSzCRh0BNcWYTEEsKVdqivtUTbc" /></a>
+<br/>
+<a href="https://github.com/geeky-auro"><img alt="python-code-3" src="http://drive.google.com/uc?id=1Gr2dtYuIIzpWEJU-pspenb_pO0txHcV5" /></a>
+<br/>
 
+
+<br/>
 ### Thanks for Viewing
 
 
